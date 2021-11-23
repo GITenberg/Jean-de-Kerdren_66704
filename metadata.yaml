@@ -1,5 +1,8 @@
 _repo: Jean-de-Kerdren_66704
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66704-h/images/cover.jpg
 creator:
   author:
     agent_name: Schultz, Jeanne
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53903
     wikipedia: https://fr.wikipedia.org/wiki/Jeanne_Schultz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66704#Jean-de-Kerdren
 gutenberg_issued: '2021-11-11'
 identifiers:
   gutenberg: '66704'
